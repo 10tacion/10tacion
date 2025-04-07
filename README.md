@@ -9,10 +9,14 @@
 * 대학생 연합동아리 [SOPT](https://sopt.org/) 34기 Web Frontend 파트 (2024.03 ~ 2024.07)
 * IDEA LAB 학부연구생 Web Frontend 파트 (2023.07 ~ 2024.02)
 
+#### Contribution
+- [https://github.com/mui/mui-x/pull/17273](https://github.com/mui/mui-x/pull/17273)
+
 <br/>
   
 [![rankit-badge](https://badge.rankit.run/badge?name=suwonthugger)](https://www.rankit.run)
   
+
 
 
 <!--
