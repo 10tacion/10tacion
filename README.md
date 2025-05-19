@@ -1,6 +1,6 @@
 ### 🖥️  Experience
 
-* **토스증권 Frontend Developer Assistant (2025.03 ~ 2025.06)**
+* **토스증권 Frontend Developer Assistant (2025.03 ~ 2025.09)**
 * **코코넛사일로 플랫폼 개발파트(APP / WEB) (2024.08 ~ 2024.12)**
 
 ### ✏️  Activity
